@@ -2,7 +2,7 @@ import { useState } from 'react';
 import Robot from './assets/robot.png';
 
 
-const summarize = (text) => fetch('http://127.0.0.1:5000/summarize', {
+const summarize = (text) => fetch('http://127.0.0.1:5000/summarize', { // your api server url here
   method: 'POST',
   headers: { 'Content-Type': 'application/json' },
   body: JSON.stringify(text)
