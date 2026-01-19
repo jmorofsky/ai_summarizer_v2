@@ -1,6 +1,6 @@
 Summarize any text using OpenAI's ChatGPT.
 
-https://ai-summarizer-v2-1jqquo34j-jmorofskys-projects.vercel.app/
+https://ai-summarizer-v2-three.vercel.app/
 
 <img width="1267" height="1255" alt="image" src="https://github.com/user-attachments/assets/e20ebb78-7fd0-4f98-8d68-03bf7fe9806c" />
 
