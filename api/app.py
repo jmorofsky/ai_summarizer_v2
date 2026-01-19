@@ -7,7 +7,7 @@ app = Flask(__name__)
 CORS(app)
 
 
-@app.post("/summarize")
+@app.post("/api/summarize")
 def summarize():
     if not request.json:
         return {error: "No input json received."}
