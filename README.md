@@ -1,5 +1,7 @@
 Summarize any text using OpenAI's ChatGPT.
 
+<img width="1267" height="1255" alt="image" src="https://github.com/user-attachments/assets/e20ebb78-7fd0-4f98-8d68-03bf7fe9806c" />
+
 ---
 
 To run the project in dev, first clone the repository.
